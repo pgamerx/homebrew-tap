@@ -5,7 +5,7 @@
 # On a new release: bump the version in `url` and set sha256 to the npm tarball's hash
 # (curl -sL <url> | shasum -a 256).
 class Coshift < Formula
-  desc "Shared task board for running several Claude Code accounts on one project"
+  desc "Shared task board for running Claude Code and Codex accounts on one project"
   homepage "https://github.com/pgamerx/coshift"
   url "https://registry.npmjs.org/coshift/-/coshift-0.6.0.tgz"
   sha256 "a699bdc0b6634bb57a8282bcf2eb21f008fad74a86e65d8080e0ce79bde7120f"
