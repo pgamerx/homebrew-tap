@@ -7,8 +7,8 @@
 class Coshift < Formula
   desc "Shared task board for running Claude Code and Codex accounts on one project"
   homepage "https://github.com/pgamerx/coshift"
-  url "https://registry.npmjs.org/coshift/-/coshift-0.6.3.tgz"
-  sha256 "dd1796992e3c75acdab3765cba8c20eef8c8593ac4f4eff9f707cd1ef20ef019"
+  url "https://registry.npmjs.org/coshift/-/coshift-0.6.5.tgz"
+  sha256 "7152df1288a3b3ef9770b4ac73e89bbe18f0450aff8c5bf1018897ca7e8144d1"
   license "MIT"
 
   depends_on "node"
